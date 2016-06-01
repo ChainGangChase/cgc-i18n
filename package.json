@@ -1,0 +1,26 @@
+{
+  "name": "cgc-i18n",
+  "version": "0.0.1",
+  "description": "Strings for i18n of ChainGangChase/game.",
+  "files": [
+    "package"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainGangChase/cgc-i18n.git"
+  },
+  "keywords": [
+    "strings",
+    "language",
+    "video",
+    "game",
+    "translation",
+    "i18n"
+  ],
+  "author": "Percipient24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChainGangChase/cgc-i18n/issues"
+  },
+  "homepage": "https://github.com/ChainGangChase/cgc-i18n#readme"
+}
