@@ -1,7 +1,7 @@
 {
   "name": "cgc-i18n",
-  "version": "0.0.1",
-  "description": "Strings for i18n of ChainGangChase/game.",
+  "version": "0.1.0",
+  "description": "Strings for i18n of ChainGangChase/game, and font files.",
   "files": [
     "package"
   ],
